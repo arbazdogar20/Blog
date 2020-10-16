@@ -1,0 +1,21 @@
+{
+    "para":
+    {
+       "local_server": "True",
+       "local_uri": "mysql://root:@localhost/amtechgamer",
+       "pro_uri": "mysql://root:@localhost/amtechgamer",
+       "fb_url": "https://www.facebook.com/",
+       "tw_url": "https://www.twitter.com/",
+       "git_url": "https://www.github.com/",
+       "blog_name": "AM TECH GAMER",
+       "g-email": "",
+       "g-password": "",
+       "about": "Assalam O Alaikum. My Name Is Arbaz. I Am Computer Science Student. I Do This Blog On The Flask",
+       "no_post": 3,
+       "login_email": "admin",
+       "login_password": "admin",
+       "upload_location": ""
+
+        
+    }
+}
