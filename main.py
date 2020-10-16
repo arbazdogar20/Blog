@@ -177,4 +177,4 @@ def upload():
             return "Uploaded Successfully"
 
 
-app.run()
+app.run()  # Add debug=True In The app.run()
